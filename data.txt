@@ -1,0 +1,14 @@
+Mario,Nintendo 64,Human,Good
+Punio,Gamecube,Puni,Neutral
+Bowser,Nintendo 64,Koopa,Bad
+Tippi,Wii,Pixl,Good
+Count Bleck,Wii,Human,Bad
+Flavio,Gamecube,Koopa,Neutral
+Princess Peach,Nintendo 64,Human,Good
+Toadstool,Wii,Toad,Neutral
+asdasdsa,Nintendo 64,asdasda,Bad
+3242343242@#@#!#,Gamecube,DRAGON,Neutral
+<i>peaceee</i>,Gamecube,<b>sadsad</b>,Bad
+hi,Nintendo 64,hi,Good
+hi,Nintendo 64,hi,Good
+Tiffany,Gamecube,AXO,Bad

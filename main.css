@@ -1,0 +1,272 @@
+html {
+    background-color: #FFD801;
+}
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0 ;
+    padding: 0em 0em 0em;
+    width: 100%;
+    font-family: 'Skranji', cursive;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: black;
+    background-color: #FFD801;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: white;
+    border-bottom: none;
+}
+a:visited {
+    color: white;
+    border-bottom: none;
+}
+a:hover {
+    color: red;
+    border-bottom: none;
+}
+
+
+.nav {
+    position: relative;
+    top: 140px;
+    font-size: 2.0vw;
+    font-family: 'Skranji', cursive;
+    color: white;
+    display: inline;
+    margin-left: 18%;
+    text-shadow: 3px 3px 4px black;
+    overflow: hidden;
+}
+
+.title {
+    background-color: transparent;
+    position: absolute;
+    color: white;
+    top: 350px;
+    margin-left: 26%;
+    font-size: 7.9vw;
+    font-family: 'Skranji', cursive;
+    text-shadow: 3px 3px 4px black;
+}
+.title2 {
+    position: relative;
+    color: white;
+    top: 80px;
+    margin-left: 38%;
+    font-size: 4.5vw;
+    font-family: 'Skranji', cursive;
+    text-shadow: 3px 3px 4px black;
+}
+.title3 {
+    position: relative;
+    color: white;
+    top: 80px;
+    margin-left: 42%;
+    font-size: 4.5vw;
+    font-family: 'Skranji', cursive;
+    text-shadow: 3px 3px 4px black;
+}
+.title4 {
+    position: relative;
+    color: white;
+    top: 80px;
+    margin-left: 35%;
+    font-size: 4.5vw;
+    font-family: 'Skranji', cursive;
+    text-shadow: 3px 3px 4px black;
+}
+.paragraph_header {
+    text-decoration: underline;
+    position: relative;
+    top: 120px;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-family: 'Skranji', cursive;
+    color: black;
+}
+
+.paragraph_text {
+    margin-right: 40%;
+    margin-top: 1%;
+    margin-left: 2%;
+    left: 60px;
+    font-family: 'Skranji', cursive;
+    color: black;
+    margin-bottom: 2%;
+}
+
+
+.search_table {
+    position: relative;
+    top: 120px;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Skranji', cursive;
+    color: black;
+}
+
+.echo1 {
+    position: relative;
+    top: 150px;
+    font-size: 10px;
+    margin-left: 5%;
+    font-family: 'Skranji', cursive;
+    color: black;
+
+}
+
+.good {
+    background-image: url("photos/good.png");
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 5%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 3%;
+    position: relative;
+}
+.bad {
+    background-image: url("photos/bad.png");
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 5%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 3%;
+    position: relative;
+}
+.neutral {
+    background-image: url("photos/neutral.png");
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 5%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 3%;
+    position: relative;
+}
+
+.good2 {
+    background-image: url("photos/good.png");
+    top: 280px;
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 1%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 1%;
+    position: relative;
+}
+.bad2 {
+    background-image: url("photos/bad.png");
+    top: 280px;
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 1%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 1%;
+    position: relative;
+}
+.neutral2 {
+    background-image: url("photos/neutral.png");
+    top: 280px;
+    font-size: 1.9vw;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 1%;
+    font-family: 'Skranji', cursive;
+    color: black;
+    height: 280px;
+    max-width: 1200px;
+    margin-bottom: 1%;
+    position: relative;
+}
+
+
+.banner {
+    position: relative;
+    top: 120px;
+}
+
+.banner_text {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    right: 10%;
+    margin-right: 10%;
+}
+
+.results {
+    position: relative;
+    top: 180px;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    font-family: 'Skranji', cursive;
+    color: black;
+}
+
+.sprites {
+    background-image: url("photos/bowser.png");
+    width: 100%;
+    margin-left: 200px;
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.sprites2 {
+    position: relative;
+    background-image: url("photos/mario.png");
+    top: 100px; 
+    margin-left: 20%;
+    margin-bottom: 0%;
+    bottom: 0;
+    height: 400px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+.bigban {
+    height: 400px;
+    background-color: transparent;
+}
+.cite {
+    font: arial;
+    margin-left: 35%;
+    margin-top: 10%;
+    color: white;
+    bottom: 2px;
+
+}
